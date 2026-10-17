@@ -80,10 +80,6 @@ The application connects to Ollama at `http://localhost:11434`. The model name, 
 
 The AI model runs locally and is not included in this repository. Response speed depends on your computer's hardware and the model's generation settings.
 
-## Author
-
-Sujan
-
 ## License
 
 This project is available for educational and personal use.
